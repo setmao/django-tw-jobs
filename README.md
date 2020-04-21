@@ -1,2 +1,12 @@
-# django-tw-company
-Companies using Django in Taiwan
+# Companies using Django in Taiwan
+- [奧特圖](https://ezorderly.com/)
+  - [cakeresume](https://www.cakeresume.com/companies/orderly):
+    - [Python / Django 產品開發工程師 (0 ~ 2 年工作經驗)](https://www.cakeresume.com/companies/orderly/jobs/django-python-engineer)
+- [Appar約沛科技](www.appar.com.tw)
+  - [cakeresume](https://www.cakeresume.com/companies/appar):
+    - [後端 Python Django 工程師](https://www.cakeresume.com/companies/appar/jobs/python-django-backend-engineer)
+    - [實習 Python Django 後端工程師](https://www.cakeresume.com/companies/appar/jobs/python-intern-engineer)
+    - [兼職 遠端 Python Django 後端工程師](https://www.cakeresume.com/companies/appar/jobs/part-time-python-back-end-engineer-outsourcing-soho-or-a-second-income)
+- [貝里斯普立](https://prjpartners.com/)
+  - [cakeresume](https://www.cakeresume.com/companies/prjpartners):
+    - [資深 Python & Django 工程師 (可遠端工作)](https://www.cakeresume.com/companies/prjpartners/jobs/senior-python-amp-django-engineer)
