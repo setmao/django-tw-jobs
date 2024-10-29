@@ -1,60 +1,142 @@
 ## Django TW jobs
-- 永豐金證券
-  - [cakeresume](https://www.cakeresume.com/companies/sinotrade-newweb)
-    - [Python Django Web Developer](https://www.cakeresume.com/companies/sinotrade-newweb/jobs/python-django-web-developer)
+- 頑碼資訊 Playma Co., Ltd.
+  - [cakeresume](https://www.cake.me/companies/playma)
+    - [後端工程師 - (Django) Senior Backend Engineer](https://www.cake.me/companies/playma/jobs/django-engineer)
+- 矽羽智慧電商 Sysfeather Co.
+  - [cakeresume](https://www.cake.me/companies/sysfeather)
+    - [中階後端工程師, Mid.-Sr. Python/Django Developer, Backend, EC SaaS, AWS](https://www.cake.me/companies/sysfeather/jobs/mid-sr-python-django-developer-backend-ec-sass-aws)
+    - [後端工程師, Jr. Python/Django Developer, Backend, EC SaaS, AWS](https://www.cake.me/companies/sysfeather/jobs/jr-python-django-developer-backend-ec-sass-aws)
+    - [高階後端工程師, Sr. Python/Django Developer, Backend, EC SaaS, AWS](https://www.cake.me/companies/sysfeather/jobs/sr-python-django-developer-backend-ec-sass-aws)
+- StockFeel 股感
+  - [cakeresume](https://www.cake.me/companies/stockfeel)
+    - [Python / Django 後端開發工程師 (3 年以上)](https://www.cake.me/companies/stockfeel/jobs/1c4e20)
+- Cake Recruitment Consulting
+  - [cakeresume](https://www.cake.me/companies/cake-recruitment-consulting)
+    - [Fintech 新創金融交易APP- Python / Django 後端工程師- TL](https://www.cake.me/companies/cake-recruitment-consulting/jobs/9d802c)
+    - [🪑居家質感選物電商平台 - Python後端工程師（5yr+不限語言）- AY](https://www.cake.me/companies/cake-recruitment-consulting/jobs/3c8646)
+    - [🐬全遠端對話式AI新創🐬 - Python Backend Engineer - AY](https://www.cake.me/companies/cake-recruitment-consulting/jobs/e6b2db)
+- PRJ Analytics
+  - [cakeresume](https://www.cake.me/companies/prjanalytics)
+    - [資深 Python & Django 工程師 (可遠端工作)](https://www.cake.me/companies/prjanalytics/jobs/senior-python-amp-django-engineer)
+- Linker Vision
+  - [cakeresume](https://www.cake.me/companies/linker-vision)
+    - [資深後端工程師 Senior Backend Engineer (Python/Django)](https://www.cake.me/companies/linker-vision/jobs/mid-backend-engineer-python-django-bf24d6)
 - Appar約沛科技有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/appar)
-    - [兼職 遠端 Python Django 後端工程師](https://www.cakeresume.com/companies/appar/jobs/part-time-python-back-end-engineer-outsourcing-soho-or-a-second-income)
-    - [實習 Python Django 後端工程師](https://www.cakeresume.com/companies/appar/jobs/python-intern-engineer)
-    - [後端 Python Django 工程師](https://www.cakeresume.com/companies/appar/jobs/python-django-backend-engineer)
-- 貝里斯普立有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/prjpartners)
-    - [資深 Python & Django 工程師 (可遠端工作)](https://www.cakeresume.com/companies/prjpartners/jobs/senior-python-amp-django-engineer)
+  - [cakeresume](https://www.cake.me/companies/appar)
+    - [後端 Python Django 工程師](https://www.cake.me/companies/appar/jobs/python-django-backend-engineer)
+    - [全端實習工程師](https://www.cake.me/companies/appar/jobs/full-time-trainee-engineer)
+    - [全端兼職工程師](https://www.cake.me/companies/appar/jobs/full-time-part-time-engineer)
+- Mewney
+  - [cakeresume](https://www.cake.me/companies/mewney-taiwan-inc)
+    - [Python Backend Engineer (Django)](https://www.cake.me/companies/mewney-taiwan-inc/jobs/python-backend-engineer-django)
 - 原力金融科技股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/forcefintec-ba90ce)
-    - [Python Django 後端工程師](https://www.cakeresume.com/companies/forcefintec-ba90ce/jobs/digital-product-marketing)
-- 順皇科技有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/syncode-1ab0d3)
-    - [Python資深工程師](https://www.cakeresume.com/companies/syncode-1ab0d3/jobs/python-senior-engineer)
+  - [cakeresume](https://www.cake.me/companies/forcefintec-ba90ce)
+    - [Python Django 後端工程師](https://www.cake.me/companies/forcefintec-ba90ce/jobs/digital-product-marketing)
+- 岳鼎股份有限公司
+  - [cakeresume](https://www.cake.me/companies/xmight)
+    - [後端工程師 (Django)](https://www.cake.me/companies/xmight/jobs/backend-engineer-django)
+- beBit TECH_微拓科技股份有限公司
+  - [cakeresume](https://www.cake.me/companies/bebit-tech)
+    - [(Jr.) Backend Engineer 後端工程師](https://www.cake.me/companies/bebit-tech/jobs/jr-backend-engineer)
+- 智庫驅動股份有限公司
+  - [cakeresume](https://www.cake.me/companies/dsp-im)
+    - [後端工程師](https://www.cake.me/companies/dsp-im/jobs/backend-engineer-d46250)
 - 天使消費科技股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/angelsctek)
-    - [資深後端工程師](https://www.cakeresume.com/companies/angelsctek/jobs/senior-backend-engineer-0060c6)
-- 創順科技有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/unnotech)
-    - [後端工程師 Back-end Engineer ( Python )](https://www.cakeresume.com/companies/unnotech/jobs/python-537a76)
-    - [ 資深後端工程師 Sr. Back-end Engineer ( Python )](https://www.cakeresume.com/companies/unnotech/jobs/python-0c7d29)
-    - [DevOps / SRE 工程師](https://www.cakeresume.com/companies/unnotech/jobs/devops-369385)
-- 木刻思股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/data-sci-info-about-e6-9c-a8-e5-88-bb-e6-80-9d)
-    - [Backend engineer](https://www.cakeresume.com/companies/data-sci-info-about-e6-9c-a8-e5-88-bb-e6-80-9d/jobs/backend-engineer-9d6cd2)
+  - [cakeresume](https://www.cake.me/companies/angelsctek)
+    - [資深後端工程師](https://www.cake.me/companies/angelsctek/jobs/senior-backend-engineer-0060c6)
+    - [資深前端工程師](https://www.cake.me/companies/angelsctek/jobs/senior-front-end-engineer-319886)
+- 順皇科技有限公司
+  - [cakeresume](https://www.cake.me/companies/syncode-1ab0d3)
+    - [Python資深工程師](https://www.cake.me/companies/syncode-1ab0d3/jobs/python-senior-engineer)
+- 究心公益科技 GeoThings Inc.
+  - [cakeresume](https://www.cake.me/companies/GeoThings)
+    - [Backend Developer](https://www.cake.me/companies/GeoThings/jobs/developer-backend)
 - 街口電子支付股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/jkopay)
-    - [Backend engineer](https://www.cakeresume.com/companies/jkopay/jobs/backend-engineer-d7a8c1)
-    - [Senior backend engineer](https://www.cakeresume.com/companies/jkopay/jobs/senior-python-web-engineer)
-- 緯創資通股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/wistron)
-    - [Backend engineer](https://www.cakeresume.com/companies/wistron/jobs/backend-engineer-330a28)
-- 端傳媒 Initium Media
-  - [cakeresume](https://www.cakeresume.com/companies/initium-media)
-    - [後端工程師 Backend Developer](https://www.cakeresume.com/companies/initium-media/jobs/backend-engineer-ea2651)
-- 資拓宏宇國際股份有限公司
-  - [cakeresume](https://www.cakeresume.com/companies/iisigroup)
-    - [Python Chatbot 軟體設計工程師 (TDD50)](https://www.cakeresume.com/companies/iisigroup/jobs/python-chatbot-software-design-engineer-tdd50)
-- Buyandship 台灣
-  - [cakeresume](https://www.cakeresume.com/companies/buyandship-19c54e)
-    - [Senior Full Stack Developer (Python)](https://www.cakeresume.com/companies/buyandship-19c54e/jobs/senior-full-stack-developer-python)
-- Cinnamon AI Taiwan Inc.
-  - [cakeresume](https://www.cakeresume.com/companies/cinnamon-ai-taiwan-inc)
-    - [Sr. Backend Software Engineer](https://www.cakeresume.com/companies/cinnamon-ai-taiwan-inc/jobs/sr-backend-software-engineer)
-- citiesocial
-  - [cakeresume](https://www.cakeresume.com/companies/citiesocial)
-    - [軟體工程師 - 營運支援 Software Engineer - Internal Tools and Operations Support](https://www.cakeresume.com/companies/citiesocial/jobs/419605)
-- JobEspresso - Job Hunting Service
-  - [cakeresume](https://www.cakeresume.com/companies/jobespresso-job-hunting-service)
-    - [Python Engineer](https://www.cakeresume.com/companies/jobespresso-job-hunting-service/jobs/python-engineer-8c8c71)
-- 幣聖科技 BitSENSE Inc.
-  - [cakeresume](https://www.cakeresume.com/companies/bitsense)
-    - [Web 應用開發工程師](https://www.cakeresume.com/companies/bitsense/jobs/web-application-development-engineer)
-- Kloudless Taiwan Inc.
-  - [cakeresume](https://www.cakeresume.com/companies/kloudless-taiwan-inc)
-    - [Software Engineer](https://www.cakeresume.com/companies/kloudless-taiwan-inc/jobs/software-engineer-53d2b5)
+  - [cakeresume](https://www.cake.me/companies/jkopay)
+    - [Backend engineer](https://www.cake.me/companies/jkopay/jobs/backend-engineer-d7a8c1)
+- 山富國際旅行社股份有限公司
+  - [cakeresume](https://www.cake.me/companies/travel4u)
+    - [Junior Software Engineer 初級軟體工程師(錦州街)](https://www.cake.me/companies/travel4u/jobs/72d14a-3b7e4b)
+- 仰得股份有限公司
+  - [cakeresume](https://www.cake.me/companies/envda)
+    - [Senior Web Developer (Python) ](https://www.cake.me/companies/envda/jobs/senior-web-developer-python)
+    - [Web Developer (Python) ](https://www.cake.me/companies/envda/jobs/web-developer-python)
+- 歐零距行銷科技有限公司
+  - [cakeresume](https://www.cake.me/companies/lin-ee-3enggyr)
+    - [(Junior) 後端工程師Back-end Engineer (Python)](https://www.cake.me/companies/lin-ee-3enggyr/jobs/junior-back-end-engineer-python)
+- Money Forward Vietnam
+  - [cakeresume](https://www.cake.me/companies/money-forward-vietnam)
+    - [Principal Python Engineer](https://www.cake.me/companies/money-forward-vietnam/jobs/principal-python-engineer)
+- 台灣大哥大
+  - [cakeresume](https://www.cake.me/companies/taiwan-mobile)
+    - [I107 資料分析/數據工程師(可遠端工作)](https://www.cake.me/companies/taiwan-mobile/jobs/i107-data-analysis-data-engineer-can-work-remotely)
+- 聯想感行銷科技股份有限公司
+  - [cakeresume](https://www.cake.me/companies/starcofeel)
+    - [後端工程師 Backend Engineer (Python / PHP)](https://www.cake.me/companies/starcofeel/jobs/15a62c)
+- Powertech Automation Inc.
+  - [cakeresume](https://www.cake.me/companies/powertech-automation-inc)
+    - [全端工程師](https://www.cake.me/companies/powertech-automation-inc/jobs/full-end-engineer-84a26a)
+- Foreign Professional Talent Recruitment in Taiwan
+  - [cakeresume](https://www.cake.me/companies/taiwan-international-jobs)
+    - [🐬全遠端對話式AI新創🐬 - Python Backend Engineer - AY](https://www.cake.me/companies/taiwan-international-jobs/jobs/84055c)
+- GliaCloud 集雅科技
+  - [cakeresume](https://www.cake.me/companies/gliacloud)
+    - [產品研發工程師（儲備幹部）](https://www.cake.me/companies/gliacloud/jobs/product-development-engineer-advertising-system)
+    - [後端工程師(AI 影音內容廣告)](https://www.cake.me/companies/gliacloud/jobs/50d02f)
+    - [後端實習工程師](https://www.cake.me/companies/gliacloud/jobs/back-end-trainee-engineer-603ee1)
+- OakMega 大橡科技
+  - [cakeresume](https://www.cake.me/companies/oakmega)
+    - [Back-end Engineer 後端工程師](https://www.cake.me/companies/oakmega/jobs/back-end-engineer-bbb047)
+- 女媧資訊股份有限公司
+  - [cakeresume](https://www.cake.me/companies/nuwainfo-e1d976)
+    - [軟體工程師](https://www.cake.me/companies/nuwainfo-e1d976/jobs/software-engineer-1688b6)
+- 玉山綜合證券｜2024 年末 IT 人才快速面試專區
+  - [cakeresume](https://www.cake.me/companies/esunsecurities_speedinterview)
+    - [🔥玉山綜合證券 IT 人才快速面試｜資料工程師(DE)（ 12/2 招募截止！）](https://www.cake.me/companies/esunsecurities_speedinterview/jobs/data_engineer_de)
+- 鑫成科技股份有限公司
+  - [cakeresume](https://www.cake.me/companies/1111-corp-73538529)
+    - [Site Reliability Engineer(SRE) / DevOps Engineer](https://www.cake.me/companies/1111-corp-73538529/jobs/site-reliability-engineer-sre-devops-engineer)
+- OneDegree
+  - [cakeresume](https://www.cake.me/companies/onedegree)
+    - [Network Engineering / MIS Intern](https://www.cake.me/companies/onedegree/jobs/network-engineer-intern-program)
+- 羅爾科技有限公司
+  - [cakeresume](https://www.cake.me/companies/roar)
+    - [網頁後端工程師](https://www.cake.me/companies/roar/jobs/backend-engineer-97c1fe)
+- 保克曼有限公司
+  - [cakeresume](https://www.cake.me/companies/paulkman)
+    - [中高階爬蟲工程師](https://www.cake.me/companies/paulkman/jobs/senior-crawler-engineer)
+- 安然科技有限公司
+  - [cakeresume](https://www.cake.me/companies/artsolutions)
+    - [C#軟體工程師](https://www.cake.me/companies/artsolutions/jobs/cloud-software-engineer-b3eadb)
+- 安宏生醫股份有限公司
+  - [cakeresume](https://www.cake.me/companies/anhornmed)
+    - [Internet程式設計師](https://www.cake.me/companies/anhornmed/jobs/internet-programmer)
+- JEFEC 捷飛客
+  - [cakeresume](https://www.cake.me/companies/jefec)
+    - [Junior 程式設計師](https://www.cake.me/companies/jefec/jobs/junior-programmer)
+    - [【現正招募中】資深程式設計師(工作穩定後，後續可依狀況調整工作地點）](https://www.cake.me/companies/jefec/jobs/9f524c)
+- 紐奧谷科技股份有限公司
+  - [cakeresume](https://www.cake.me/companies/neualgo)
+    - [後端工程師 Backend Engineer (Python Developer)](https://www.cake.me/companies/neualgo/jobs/backend-engineer-python-developer)
+- 米約科技有限公司
+  - [cakeresume](https://www.cake.me/companies/9ce1d0)
+    - [Python工程師](https://www.cake.me/companies/9ce1d0/jobs/python-engineer-591836)
+- 杰特企業
+  - [cakeresume](https://www.cake.me/companies/jayterweb-weebly)
+    - [Python 爬蟲工程師](https://www.cake.me/companies/jayterweb-weebly/jobs/python-crawler-engineer-40944e)
+    - [Web Backend Developer 網頁後端開發工程師](https://www.cake.me/companies/jayterweb-weebly/jobs/ac5d42)
+- 亞洲指標數位行銷顧問股份有限公司
+  - [cakeresume](https://www.cake.me/companies/i-buzz)
+    - [[RD] WEB後端工程師(backend engineer)](https://www.cake.me/companies/i-buzz/jobs/rd-backend-engineer)
+- Wavv
+  - [cakeresume](https://www.cake.me/companies/wavv)
+    - [Backend Engineer 后端工程师](https://www.cake.me/companies/wavv/jobs/backend-engineer-676aef)
+- 和盟電子商務股份有限公司
+  - [cakeresume](https://www.cake.me/companies/ewebs-ewebs-index-php)
+    - [後端軟體工程師](https://www.cake.me/companies/ewebs-ewebs-index-php/jobs/backend-software-engineer-d51015)
+- 巴涼科技股份有限公司
+  - [cakeresume](https://www.cake.me/companies/remotenc)
+    - [研發工程師 R&D Engineer - Frontend, Software, IoT](https://www.cake.me/companies/remotenc/jobs/software-engineer-iot)
+- 凸版蓋特資訊股份有限公司
+  - [cakeresume](https://www.cake.me/companies/toppanidgate)
+    - [Python 後端工程師](https://www.cake.me/companies/toppanidgate/jobs/python-backend-engineer-d92217)
